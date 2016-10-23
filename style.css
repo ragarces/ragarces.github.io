@@ -86,10 +86,11 @@ body{
 
 .card{
     display: flex;
-    flex-direction: row;g
+    flex-direction: row;
     flex-wrap: nowrap;
     margin-bottom: 15px;
     min-height: 150px;
+    
     
 }
 .card-image{
