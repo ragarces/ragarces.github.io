@@ -86,7 +86,7 @@ body{
 
 .card{
     display: flex;
-    flex-direction: row;
+    flex-direction: row;g
     flex-wrap: nowrap;
     margin-bottom: 15px;
     min-height: 150px;
@@ -94,7 +94,6 @@ body{
 }
 .card-image{
     flex:1;
-    background-image:url(images/photo-1471306224500-6d0d218be372.jpeg);
     background-size: cover;
 }
 .card-content{
