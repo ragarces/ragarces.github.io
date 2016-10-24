@@ -71,7 +71,7 @@ body{
 h2{
     font-family: 'source serif pro';
     font-size: 25px;
-    color:#666666;
+    color:#535353;
     font-weight: 600;
     margin:0px;
 }
@@ -114,6 +114,7 @@ h3{
     margin: 0px;
     font-family: 'source serif pro';
     font-weight: 600;
+    color:#535353
 }
 
 p{
@@ -121,6 +122,7 @@ p{
     font-family: 'source sans pro';
     font-size: 14px;
     font-weight: 300;
+    color:#535353;
 }
 .card-date{
     text-align: right;
@@ -143,7 +145,8 @@ p{
 
 h4{
     margin: 0px;
-    font-family: 'source serif pro'
+    font-family: 'source serif pro';
+    color: #535353;
     
 }
 
